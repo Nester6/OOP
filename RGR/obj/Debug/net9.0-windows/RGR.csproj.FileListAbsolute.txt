@@ -1,0 +1,14 @@
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\obj\Debug\net9.0-windows\RGR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\obj\Debug\net9.0-windows\RGR.AssemblyInfoInputs.cache
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\obj\Debug\net9.0-windows\RGR.AssemblyInfo.cs
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\obj\Debug\net9.0-windows\RGR.csproj.CoreCompileInputs.cache
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\bin\Debug\net9.0-windows\RGR.exe
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\bin\Debug\net9.0-windows\RGR.deps.json
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\bin\Debug\net9.0-windows\RGR.runtimeconfig.json
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\bin\Debug\net9.0-windows\RGR.dll
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\bin\Debug\net9.0-windows\RGR.pdb
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\obj\Debug\net9.0-windows\RGR.dll
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\obj\Debug\net9.0-windows\refint\RGR.dll
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\obj\Debug\net9.0-windows\RGR.pdb
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\obj\Debug\net9.0-windows\RGR.genruntimeconfig.cache
+C:\Users\Макс\OneDrive\Робочий стіл\Program\РГР\RGR\obj\Debug\net9.0-windows\ref\RGR.dll
